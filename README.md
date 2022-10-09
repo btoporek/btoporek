@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btoporek
-- 👀 I’m interested in changing careers.
-- 🌱 I’m currently learning front end development.
+- 👀 I’m interested in front end development.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything as I learn!
 - 📫 How to reach me- Find me on LinkedIn! www.linkedin.com/in/brittni-toporek
 
