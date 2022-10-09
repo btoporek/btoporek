@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @btoporek
+- 👋 Hi, I’m Brittni Toporek!
 - 👀 I’m interested in front end development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on anything as I learn!
+- 💞️ I’m looking to collaborate or practice anything as I learn.
 - 📫 How to reach me- Find me on LinkedIn! www.linkedin.com/in/brittni-toporek
 
 
