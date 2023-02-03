@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brittni Toporek!
-- 👀 I’m interested in front end development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in Front-End Development.
+- 🌱 I’m currently learning Front-End technologies like JavaScript, ReactJS, HTML, CSS, and more!
 - 💞️ I’m looking to collaborate or practice anything as I learn.
 - 📫 How to reach me- Find me on LinkedIn! www.linkedin.com/in/brittni-toporek
 
