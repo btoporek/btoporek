@@ -8,14 +8,14 @@ Check out some of what I've made while learning:
 
 
 ⚛️ReactJS
-- https://github.com/btoporek/Final-Mock-OLS
-- https://github.com/btoporek/Week-15-React-CRUD-App
-- https://github.com/btoporek/Week-14-Movie-Review-App
-- https://github.com/btoporek/Week-13-React-Login-Form
+- https://github.com/btoporek/Mock-Online-Course-Management-Website
+- https://github.com/btoporek/Book-Tracker-React-CRUD-App
+- https://github.com/btoporek/Movie-Review-App
+- https://github.com/btoporek/React-Login-Form
 
 👩‍💻JavaScript, JQuery, AJAX
-- https://github.com/btoporek/Week-12-Project-DnD-Party-Maker
-- https://github.com/btoporek/Week-11-Tic-Tac-Toe
+- https://github.com/btoporek/JQuery-DnD-Party-Maker
+- https://github.com/btoporek/Tic-Tac-Toe
 
 <!---
 
