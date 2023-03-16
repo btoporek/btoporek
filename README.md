@@ -8,6 +8,7 @@ Check out some of what I've made while learning:
 
 
 ⚛️JavaScript: ReactJS
+-https://github.com/btoporek/portfolio
 - https://github.com/btoporek/Mock-Online-Course-Management-Website
 - https://github.com/btoporek/Book-Tracker-React-CRUD-App
 - https://github.com/btoporek/Movie-Review-App
