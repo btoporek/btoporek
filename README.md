@@ -7,13 +7,13 @@
 Check out some of what I've made while learning:
 
 
-⚛️ReactJS
+⚛️JavaScript: ReactJS
 - https://github.com/btoporek/Mock-Online-Course-Management-Website
 - https://github.com/btoporek/Book-Tracker-React-CRUD-App
 - https://github.com/btoporek/Movie-Review-App
 - https://github.com/btoporek/React-Login-Form
 
-👩‍💻JavaScript, JQuery, AJAX
+👩‍💻JavaScript: JQuery, AJAX
 - https://github.com/btoporek/JQuery-DnD-Party-Maker
 - https://github.com/btoporek/Tic-Tac-Toe
 
