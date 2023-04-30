@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Brittni Toporek!
+- 👋 Hi, I’m Brittni Toporek! Check out my website: https://www.brittnitoporek.net
 - 👀 I’m interested in front-end web development.
-- 🌱 I’m have experience working with front-end technologies like JavaScript, ReactJS, HTML, CSS, and more!
+- 🌱 I have experience working with front-end technologies like JavaScript, ReactJS, HTML, CSS, and more!
 - 💞️ I’m looking to collaborate or practice anything as I grow and learn.
-- 📫 How to reach me- Find me on LinkedIn! www.linkedin.com/in/brittni-toporek
+- 📫 Find me on LinkedIn! www.linkedin.com/in/brittni-toporek
 
 Check out some of what I've made while learning:
 
