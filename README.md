@@ -15,7 +15,7 @@ Check out some of what I've made while learning:
 - https://github.com/btoporek/React-Login-Form
 
 👩‍💻JavaScript: JQuery, AJAX
-- https://github.com/btoporek/portfolio
+- https://github.com/btoporek/main-portfolio
 - https://github.com/btoporek/JQuery-DnD-Party-Maker
 - https://github.com/btoporek/Tic-Tac-Toe
 
